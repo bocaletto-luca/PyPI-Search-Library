@@ -29,3 +29,11 @@ PyPI Search Library is a Python application that allows you to quickly and easil
 - Students and Python enthusiasts can explore the libraries available on PyPI to expand their knowledge and skills.
 
 PyPI Search Library is a valuable tool for anyone working with Python who wants to simplify the process of searching for and discovering relevant Python libraries.
+
+---
+
+**Maintainer Update**
+
+All legacy projects from the old `@Elektronoide` GitHub account are now officially maintained by **@bocaletto-luca**. Please direct any issues, pull requests, and stars to **@bocaletto-luca** for all future updates.
+
+---
